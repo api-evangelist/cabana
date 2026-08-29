@@ -8,6 +8,9 @@ description: 'Cabana Pools is a California pool-service company providing recurr
   instant online pricing quote tool. No public API or developer surface is currently published; this
   profile is maintained as an API Evangelist network lead.'
 url: https://raw.githubusercontent.com/api-evangelist/cabana/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API or developer surface is currently published; this profile is maintained as an API Evangelist network lead."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
